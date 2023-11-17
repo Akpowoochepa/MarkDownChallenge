@@ -22,4 +22,5 @@ Perfectly balancing savory and sweet, these scones are great for a special occas
 
 For more delightful recipes, visit [The Pioneer Woman](https://www.thepioneerwoman.com).
 
+[Previous Page](muffins.md)
 [Back to Home](README.md)
