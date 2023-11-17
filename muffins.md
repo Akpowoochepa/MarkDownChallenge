@@ -18,4 +18,5 @@ These muffins are great for breakfast or brunch. Their fresh and attractive look
 
 For more delightful recipes, visit [Taste of Home](https://www.tasteofhome.com/collection/muffin-recipes-worth-waking-up-for/).
 
+[Next Page](scones.md)
 [Back to Home](README.md)
